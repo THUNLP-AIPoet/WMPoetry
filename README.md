@@ -1,5 +1,5 @@
 # WMPoetry
-The source code of [*Chinese Poetry Generation with a Working Memory Model *](https://www.ijcai.org/Proceedings/2018/0633.pdf) (IJCAI 2018).
+The source code of [*Chinese Poetry Generation with a Working Memory Model*](https://www.ijcai.org/Proceedings/2018/0633.pdf) (IJCAI 2018).
 
 ## 1. Rights
 All rights reserved.
